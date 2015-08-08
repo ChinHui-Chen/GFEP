@@ -14,4 +14,4 @@ File Explanation:
   * `Features.R`: library code for extracting feature in my method.  
   * `Exp<desc>.R` (E.g. ExpSVRNSteps.R): main code for experimenting. Above libs are called. Start from here.  
 
-
+Presentation slide: [http://www.slideshare.net/chinhuichen/slide-print-fororal](http://www.slideshare.net/chinhuichen/slide-print-fororal)
